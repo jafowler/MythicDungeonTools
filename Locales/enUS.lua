@@ -1029,9 +1029,13 @@ L["ConnectedTip"] = "Group connections in MDT do not reflect if NPCs are linked 
 L["theaterOfPain_miniBossNote"] = "Only one duelist will be alive."
 <<<<<<< HEAD
 L["DataImportButtonTooltip"] = "Import external NPC Data."
+<<<<<<< HEAD
 L["Import Data"] = "Import Data"
 L["noDungeonData1"] = "It seems that you have not imported any dungeon data yet."
 L["noDungeonData2"] = "Learn how to get dungeon data here:"
 L["Dungeon Data Missing"] = "Dungeon Data Missing"
 =======
 >>>>>>> parent of d888c3e (mapping update)
+=======
+L["Import Data"] = "Import Data"
+>>>>>>> parent of 80993d8 (dungeon data import)

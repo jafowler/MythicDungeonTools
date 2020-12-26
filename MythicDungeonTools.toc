@@ -35,6 +35,10 @@ DataCollection.lua
 LiveSession.lua
 Legion\load_legion.xml
 BattleForAzeroth\load_bfa.xml
+<<<<<<< HEAD
 Shadowlands\load_shadowlands.xml
 dataImport.lua
 #ShadowlandsDev\load_shadowlandsDev.xml
+=======
+Shadowlands\load_shadowlands.xml
+>>>>>>> parent of 80993d8 (dungeon data import)
